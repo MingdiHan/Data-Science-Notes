@@ -6,4 +6,13 @@ BioConductor: A repository mainly for bioinformatic-focused packages  https://bi
 ### Week Three Linked Rstudio and Git    
 
 1. Create repo and change from Rstudio     
-e.g. Testing.R (initial script)
+e.g. Testing.R (initial script)     
+
+### Week Four    
+
+1. Using R markdown commands:    
+1)section headers:     
+"# Header level 1"    
+"## Header level 2"    
+"### Header level 3..."    
+2)R code chunk:  Ctrl+Alt+I (Windows) or Cmd + Option + I (Mac)
